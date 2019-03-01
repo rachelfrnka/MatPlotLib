@@ -1,0 +1,13 @@
+Pyber Observations:
+1. Urban cities tended to have lower fares/ride. This seems odd due to the idea of cost of living being higher
+in urban areas and services having higher costs. So, an explanation could be that people in Urban cities take
+shorter rides more often. People in rural areas have longer commutes and rides. 
+
+2. There are a higher percentage of drivers in urban cities (86.7%) for percentage of rides (67%) compared to
+suburban that had 12.5% of drivers but 26% of rides. It would be interesting to see the earning differentiation-
+if suburban drivers are making more trips and making more money. They are making 30.5% of fares, but This 
+equates to larger per-driver earnings. 
+
+3. The small percentage of rural drivers are making a larger number of trips. This could be due to the lack
+of technology adoption by rural residents, keeping them from taking on non-standard jobs such as a ride-share
+driver. This means that for the few there are, there are more opportunities to drive. 
